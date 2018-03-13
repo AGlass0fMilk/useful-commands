@@ -5,3 +5,4 @@
 |`pushd .` or `popd`| Adds directory to a stack (pushd .). Call popd to navigate back to the saved dir|
 |`find . -name "filename"`| Recursively searches for the specified file|
 |`which python`| Prints what executable your $PATH points to (python in this example, but can be anything)|
+|`xdg-open <file>`| Opens the specified file with the system viewer |
